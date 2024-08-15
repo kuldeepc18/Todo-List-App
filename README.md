@@ -9,6 +9,7 @@ This is a simple and intuitive To-Do List web application built using **HTML**, 
 - **Add New Tasks**: Users can easily add new tasks by typing in the input field and clicking the "Add" button.
 - **Mark Tasks as Complete**: Tasks can be marked as completed by clicking on them, making it easy to keep track of what's done.
 - **Delete Tasks**: Remove tasks that are no longer needed by clicking the delete button next to the task.
+- **Local Storage**: Tasks are saved in the browser’s local storage, so they persist even after refreshing the page.
 - **Responsive Design**: The app is mobile-friendly and works well on all screen sizes.
 
 ## Technologies Used
